@@ -1,3 +1,4 @@
+20190905 AI 开发者大会 程序
 # d2l-1day-notebooks
 
 **WORK IN PROGRESS**
